@@ -4,3 +4,5 @@ Tutorial para configuração de uma impressora térmica (cupom fiscal) usando a 
 Ana silva
 
 ![Imagem da impressora](impressora.png)
+
+## Lançamentos
